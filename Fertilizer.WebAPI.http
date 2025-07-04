@@ -1,0 +1,6 @@
+@Fertilizer.WebAPI_HostAddress = http://localhost:5194
+
+GET {{Fertilizer.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Fertilizer.WebAPI\\Fertilizer.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorServerApp\\BlazorServerApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

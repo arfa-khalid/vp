@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositary", "Repositary\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fertilizer.WebAPI", "Fertilizer.WebAPI\Fertilizer.WebAPI.csproj", "{94CDEBCD-B489-4924-86B0-F456BD10EAEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fertilizer.BlazorApp", "Fertilizer.BlazorApp\Fertilizer.BlazorApp.csproj", "{302DEA90-59F5-4346-91B3-DE20001E03A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerApp", "BlazorServerApp\BlazorServerApp.csproj", "{3A61C15B-A70C-2C76-14B4-E3A2A0DFDFAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{94CDEBCD-B489-4924-86B0-F456BD10EAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94CDEBCD-B489-4924-86B0-F456BD10EAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94CDEBCD-B489-4924-86B0-F456BD10EAEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{302DEA90-59F5-4346-91B3-DE20001E03A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{302DEA90-59F5-4346-91B3-DE20001E03A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{302DEA90-59F5-4346-91B3-DE20001E03A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{302DEA90-59F5-4346-91B3-DE20001E03A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A61C15B-A70C-2C76-14B4-E3A2A0DFDFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A61C15B-A70C-2C76-14B4-E3A2A0DFDFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A61C15B-A70C-2C76-14B4-E3A2A0DFDFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A61C15B-A70C-2C76-14B4-E3A2A0DFDFAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
